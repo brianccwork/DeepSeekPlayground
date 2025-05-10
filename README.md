@@ -1,1 +1,1 @@
-#Testing Ground for a Deep Seek VSC Extension
+Testing Ground for a Deep Seek VSC Extension
